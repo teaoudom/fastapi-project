@@ -56,7 +56,7 @@ export default function App() {
   return (
     <Box
       sx={{
-        minHeight: "100vh",      // full screen this is testing
+        minHeight: "100vh",      // full screen change new
         display: "flex",
         justifyContent: "center", // horizontal center
         alignItems: "center",     // vertical center
