@@ -108,7 +108,7 @@ export default function App() {
                 <TableCell align="center">ID</TableCell>
                 <TableCell align="center">Name</TableCell>
                 <TableCell align="center">Price</TableCell>
-                <TableCell align="center">Actions</TableCell>
+                <TableCell align="center">Action</TableCell>
               </TableRow>
             </TableHead>
 
