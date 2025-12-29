@@ -1,0 +1,10 @@
+# text files: normalize LF in repo, CRLF in working directory on Windows
+* text=auto
+
+# specific extensions
+*.js text
+*.jsx text
+*.css text
+*.html text
+*.md text
+*.json text
