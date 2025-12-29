@@ -13,7 +13,7 @@ import {
   TableBody,
 } from "@mui/material";
 
-const API = `${import.meta.env.VITE_API_URL}/items`;
+const API = `${import.meta.env.VITE_API_URL}/items`; //fix url for production
 
 export default function App() {
   const [items, setItems] = useState([]);
