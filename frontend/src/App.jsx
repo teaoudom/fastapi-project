@@ -75,7 +75,7 @@ export default function App() {
         {/* Input Form */}
         <Paper sx={{ p: 3 }}>
           <Typography variant="h6" align="center" gutterBottom>
-            {form.id ? "Edit Item" : "Add Item"}
+            {form.id ? "Edit Item" : "Add Items"}
           </Typography>
 
           <TextField
